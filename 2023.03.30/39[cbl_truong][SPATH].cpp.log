@@ -1,0 +1,146 @@
+ ﻿cbl_truong‣SPATH: 97.50
+SPATH.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SPATH.cpp" -pipe -O2 -s -static -lm -x c++ -o"SPATH.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom4915\
+SPATH.cpp: In function 'void Enter()':
+SPATH.cpp:16:14: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         auto&[u, v, w] = E[i];
+              ^
+SPATH.cpp: In function 'void Solve()':
+SPATH.cpp:26:24: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+             const auto&[u, v, w] = E[i];
+                        ^
+SPATH.cpp:32:20: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         const auto&[u, v, w] = E[i];
+                    ^
+SPATH.cpp: In function 'void Brute()':
+SPATH.cpp:42:20: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         const auto&[u, v, w] = E[i];
+                    ^
+SPATH.cpp:50:13: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         auto[dis, u] = Q.top(); Q.pop();
+             ^
+SPATH.cpp:52:24: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         for(const auto&[v, w] : G[u])
+                        ^
+Dịch thành công.
+
+cbl_truong‣SPATH‣$SPATH01: 0.00
+Thời gian ≈ 0.026518300 giây
+Kết quả KHÁC đáp án!
+cbl_truong‣SPATH‣$SPATH02: 2.50
+Thời gian ≈ 0.027303300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH03: 2.50
+Thời gian ≈ 0.527139700 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH04: 2.50
+Thời gian ≈ 0.033855000 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH05: 2.50
+Thời gian ≈ 0.039745900 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH06: 2.50
+Thời gian ≈ 0.029249100 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH07: 2.50
+Thời gian ≈ 0.039049400 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH08: 2.50
+Thời gian ≈ 0.064077300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH09: 2.50
+Thời gian ≈ 0.051490700 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH10: 2.50
+Thời gian ≈ 0.026580300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH11: 2.50
+Thời gian ≈ 0.026778700 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH12: 2.50
+Thời gian ≈ 0.037680500 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH13: 2.50
+Thời gian ≈ 0.031220800 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH14: 2.50
+Thời gian ≈ 0.057212100 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH15: 2.50
+Thời gian ≈ 0.033120500 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH16: 2.50
+Thời gian ≈ 0.030702000 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH17: 2.50
+Thời gian ≈ 0.058354700 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH18: 2.50
+Thời gian ≈ 0.052795300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH19: 2.50
+Thời gian ≈ 0.030142200 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH20: 2.50
+Thời gian ≈ 0.058005000 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH21: 2.50
+Thời gian ≈ 0.041040300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH22: 2.50
+Thời gian ≈ 0.027196600 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH23: 2.50
+Thời gian ≈ 0.034184700 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH24: 2.50
+Thời gian ≈ 0.033701500 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH25: 2.50
+Thời gian ≈ 0.026573900 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH26: 2.50
+Thời gian ≈ 0.032080800 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH27: 2.50
+Thời gian ≈ 0.039049300 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH28: 2.50
+Thời gian ≈ 0.034699800 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH29: 2.50
+Thời gian ≈ 0.031147900 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH30: 2.50
+Thời gian ≈ 0.030289500 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH31: 2.50
+Thời gian ≈ 0.044045500 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH32: 2.50
+Thời gian ≈ 0.041058100 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH33: 2.50
+Thời gian ≈ 0.066871900 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH34: 2.50
+Thời gian ≈ 0.042329000 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH35: 2.50
+Thời gian ≈ 0.054044800 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH36: 2.50
+Thời gian ≈ 0.051657400 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH37: 2.50
+Thời gian ≈ 0.031285200 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH38: 2.50
+Thời gian ≈ 0.035018900 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH39: 2.50
+Thời gian ≈ 0.026225400 giây
+Kết quả khớp đáp án!
+cbl_truong‣SPATH‣$SPATH40: 2.50
+Thời gian ≈ 0.026600900 giây
+Kết quả khớp đáp án!

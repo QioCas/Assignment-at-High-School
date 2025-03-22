@@ -1,0 +1,136 @@
+ ﻿cbl_duybinh‣SPATH: 97.50
+SPATH.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SPATH.cpp" -pipe -O2 -s -static -lm -x c++ -o"SPATH.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom122\
+SPATH.cpp: In function 'void Enter()':
+SPATH.cpp:16:14: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         auto&[u, v, w] = E[i];
+              ^
+SPATH.cpp: In function 'void Solve()':
+SPATH.cpp:26:24: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+             const auto&[u, v, w] = E[i];
+                        ^
+SPATH.cpp:32:20: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         const auto&[u, v, w] = E[i];
+                    ^
+Dịch thành công.
+
+cbl_duybinh‣SPATH‣$SPATH01: 0.00
+Thời gian ≈ 0.025520600 giây
+Kết quả KHÁC đáp án!
+cbl_duybinh‣SPATH‣$SPATH02: 2.50
+Thời gian ≈ 0.026699800 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH03: 2.50
+Thời gian ≈ 0.035937300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH04: 2.50
+Thời gian ≈ 0.035262900 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH05: 2.50
+Thời gian ≈ 0.037032800 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH06: 2.50
+Thời gian ≈ 0.028064300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH07: 2.50
+Thời gian ≈ 0.040194300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH08: 2.50
+Thời gian ≈ 0.047468300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH09: 2.50
+Thời gian ≈ 0.039643400 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH10: 2.50
+Thời gian ≈ 0.027486600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH11: 2.50
+Thời gian ≈ 0.027412500 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH12: 2.50
+Thời gian ≈ 0.038450800 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH13: 2.50
+Thời gian ≈ 0.025957600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH14: 2.50
+Thời gian ≈ 0.041097900 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH15: 2.50
+Thời gian ≈ 0.036893600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH16: 2.50
+Thời gian ≈ 0.032569400 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH17: 2.50
+Thời gian ≈ 0.046360400 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH18: 2.50
+Thời gian ≈ 0.042174700 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH19: 2.50
+Thời gian ≈ 0.027695000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH20: 2.50
+Thời gian ≈ 0.042692000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH21: 2.50
+Thời gian ≈ 0.039303600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH22: 2.50
+Thời gian ≈ 0.026110800 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH23: 2.50
+Thời gian ≈ 0.031747300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH24: 2.50
+Thời gian ≈ 0.032356600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH25: 2.50
+Thời gian ≈ 0.028324200 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH26: 2.50
+Thời gian ≈ 0.035175700 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH27: 2.50
+Thời gian ≈ 0.039302000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH28: 2.50
+Thời gian ≈ 0.030796300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH29: 2.50
+Thời gian ≈ 0.029781100 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH30: 2.50
+Thời gian ≈ 0.026579000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH31: 2.50
+Thời gian ≈ 0.039471400 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH32: 2.50
+Thời gian ≈ 0.041811100 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH33: 2.50
+Thời gian ≈ 0.044786600 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH34: 2.50
+Thời gian ≈ 0.036635900 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH35: 2.50
+Thời gian ≈ 0.042901300 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH36: 2.50
+Thời gian ≈ 0.038432400 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH37: 2.50
+Thời gian ≈ 0.026851200 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH38: 2.50
+Thời gian ≈ 0.033004000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH39: 2.50
+Thời gian ≈ 0.026115000 giây
+Kết quả khớp đáp án!
+cbl_duybinh‣SPATH‣$SPATH40: 2.50
+Thời gian ≈ 0.026478000 giây
+Kết quả khớp đáp án!
